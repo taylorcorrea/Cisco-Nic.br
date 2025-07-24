@@ -71,7 +71,7 @@ Estou avançando com foco em ambientes mais realistas e simulação de ataques:
 ## 🤝 Contato
 
 - GitHub: [@taylorcorrea](https://github.com/taylorcorrea)  
-- LinkedIn: [linkedin.com/in/taylorcorrea](https://www.linkedin.com/in/taylorcorrea)
+- LinkedIn: [Taylor Corrêa](https://www.linkedin.com/in/taylor-corr%C3%AAa-980249375/)
 
 ---
 
