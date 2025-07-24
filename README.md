@@ -71,7 +71,7 @@ Estou avançando para o nível **intermediário em pentest**, com foco em ambien
 ## 🤝 Contato
 
 - GitHub: [@taylorcorrea](https://github.com/taylorcorrea)  
-- LinkedIn: [linkedin.com/in/taylorcorrea](# 🛡️ Fundamentos de Segurança Cibernética - NIC.br & Cisco (Turma 01)
+- LinkedIn: [linkedin.com/in/taylorcorrea](https://www.linkedin.com/in/taylorcorrea)
 
 Este repositório reúne meus estudos e materiais do curso **Fundamentos de Segurança Cibernética**, promovido em parceria entre o **NIC.br** (Núcleo de Informação e Coordenação do Ponto BR) e a **Cisco Networking Academy**.
 
