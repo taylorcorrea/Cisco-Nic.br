@@ -1,4 +1,4 @@
-# 🛡️ Fundamentos de Segurança Cibernética - NIC.br & Cisco (Turma 01)
+# 🛡️ Junior Cybersecurity Analyst Career Path (Turma 01)
 
 Este repositório reúne meus estudos e materiais do curso **Fundamentos de Segurança Cibernética**, promovido em parceria entre o **NIC.br** (Núcleo de Informação e Coordenação do Ponto BR) e a **Cisco Networking Academy**.
 
